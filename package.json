@@ -1,5 +1,5 @@
 {
-  "name": "react-native-webview",
+  "name": "@winstrike/react-native-webview",
   "description": "React Native WebView component for iOS, Android, macOS, and Windows",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -74,7 +74,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-webview/react-native-webview.git"
+    "url": "https://github.com/winstrike/react-native-webview.git"
   },
   "files": [
     "android",
