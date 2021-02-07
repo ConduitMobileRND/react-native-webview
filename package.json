@@ -1,4 +1,5 @@
 {
+  "_location": "/@winstrike/react-native-webview",
   "name": "@winstrike/react-native-webview",
   "description": "React Native WebView component for iOS, Android, macOS, and Windows",
   "main": "index.js",
@@ -8,7 +9,7 @@
     "Thibault Malbranche <malbranche.thibault@gmail.com>"
   ],
   "license": "MIT",
-  "version": "11.2.5",
+  "version": "11.2.6",
   "homepage": "https://github.com/react-native-webview/react-native-webview#readme",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
